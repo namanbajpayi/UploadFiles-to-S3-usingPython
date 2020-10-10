@@ -1,7 +1,7 @@
 # UploadFiles-to-S3-usingPython
 With the help of Boto3 module we are going to upload files from ec2 instance to S3 bucket
 
-requirements
+Steps:
 1. setup ec2 linux machine and s3 on aws with 1 IAM user
 2. save access_key and secret_key of IAM user (you have to use these in the python code provided for accessing the s3 bucket)
 3. Install python3 and pip3 on your instance
