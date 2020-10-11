@@ -9,8 +9,8 @@ print("kindly provide the s3 Bucket name: ",end="")
 BUCKET_NAME=input() 
 
 '''Credentials'''
-ACCESS_KEY = 'AKIA2MFMEKAGSNYMQEWZ'
-SECRET_KEY = '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'
+ACCESS_KEY = ''
+SECRET_KEY = ''
            
 '''Opening binary File'''
 data = open(str, 'rb')
